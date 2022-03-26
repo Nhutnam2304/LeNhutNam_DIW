@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+html { scroll-behavior: smooth}
+.navbar-dark .nav-link { margin: 0 15px}
+.bg-navbar{ background: rgba(14,14,14,.6)}
+.row mt-5 no-gutters{
+    margin: 0 15px;
+    justify-content: center;
+}
+.skill.p{
+    justify-content: center;
+}
+.icon{
+    width: 100px;
+}
